@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wajahat%20Khan&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Final%20Year%20@%20Hazara%20University&descAlignY=60&descSize=16" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+apps+that+actually+ship+🚀;Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;Real-time+systems+%7C+REST+APIs+%7C+Maps;Final+Year+SE+Student+%40+Hazara+University" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+apps+that+actually+ship;Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;Real-time+systems+%7C+REST+APIs+%7C+Maps;Final+Year+SE+Student+%40+Hazara+University" alt="Typing SVG" />
 <br/>
 
 <!-- Profile views & social badges -->
