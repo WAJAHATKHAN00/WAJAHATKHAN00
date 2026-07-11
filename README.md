@@ -11,7 +11,7 @@
 <!-- Profile views & social badges -->
 <a href="https://github.com/WAJAHATKHAN00"><img src="https://komarev.com/ghpvc/?username=WAJAHATKHAN00&label=Profile+Views&color=7B2FF7&style=for-the-badge" alt="Profile views"/></a>
 &nbsp;
-<a href="mailto:zamadkhan987654@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:wajahatkhan998877@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/wajahat-khan-659a8b374"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
@@ -30,7 +30,7 @@ class WajahatKhan {
   final String role     = "Flutter Developer & Software Engineering Graduate";
   final String uni      = "Hazara University Mansehra (Graduated 2026)";
   final String location = "Mansehra, KPK, Pakistan 🇵🇰";
-  final String email    = "zamadkhan987654@gmail.com";
+  final String email    = "wajahatkhan998877@gmail.com";
 
   final List<String> currentWork = [
     "🎓 BSc Software Engineering Graduate — Hazara University (2026)",
