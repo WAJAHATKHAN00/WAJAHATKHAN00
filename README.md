@@ -1,23 +1,26 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wajahat%20Khan&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Final%20Year%20@%20Hazara%20University&descAlignY=60&descSize=16" width="100%"/>
+<!-- Animated header banner — electric blue → violet → magenta -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,35:7B2FF7,70:C21FF0,100:F107A3&height=220&section=header&text=Wajahat%20Khan&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Final%20Year%20@%20Hazara%20University&descAlignY=58&descSize=17" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+apps+that+actually+ship;Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;Real-time+systems+%7C+REST+APIs+%7C+Maps;Final+Year+SE+Student+%40+Hazara+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+apps+that+actually+ship;Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;Real-time+systems+%7C+REST+APIs+%7C+Maps;AI-powered+mobile+experiences;Final+Year+SE+Student+%40+Hazara+University" alt="Typing SVG" />
+
 <br/>
 
 <!-- Profile views & social badges -->
-<a href="https://github.com/WAJAHATKHAN00"><img src="https://komarev.com/ghpvc/?username=WAJAHATKHAN00&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/></a>
+<a href="https://github.com/WAJAHATKHAN00"><img src="https://komarev.com/ghpvc/?username=WAJAHATKHAN00&label=Profile+Views&color=7B2FF7&style=for-the-badge" alt="Profile views"/></a>
 &nbsp;
-<a href="mailto:zamadkhan987654@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:zamadkhan987654@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/wajahat-khan-659a8b374"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wajahat-khan-659a8b374"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/WAJAHATKHAN00"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://github.com/WAJAHATKHAN00"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7B2FF7,100:F107A3&height=4&width=100%" width="100%"/>
 
 </div>
----
 
 ## 👨‍💻 About Me
 
@@ -44,7 +47,7 @@ class WajahatKhan {
 }
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7B2FF7,100:F107A3&height=3&width=100%" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -107,7 +110,7 @@ class WajahatKhan {
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/WAJAHATKHAN00/Professional-CV-Generator)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7B2FF7,100:F107A3&height=3&width=100%" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -146,31 +149,31 @@ class WajahatKhan {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7B2FF7,100:F107A3&height=3&width=100%" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WAJAHATKHAN00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=WAJAHATKHAN00&show_icons=true&hide_border=true&count_private=true&title_color=00E5FF&icon_color=F107A3&text_color=C9D1D9&bg_color=0D1117" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAJAHATKHAN00&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAJAHATKHAN00&layout=compact&hide_border=true&title_color=00E5FF&text_color=C9D1D9&bg_color=0D1117" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WAJAHATKHAN00&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WAJAHATKHAN00&hide_border=true&background=0D1117&stroke=00E5FF&ring=F107A3&fire=F107A3&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7B2FF7,100:F107A3&height=3&width=100%" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=WAJAHATKHAN00&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=WAJAHATKHAN00&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7B2FF7,100:F107A3&height=3&width=100%" width="100%"/>
 
 ## 💼 Work Experience
 
@@ -179,15 +182,12 @@ class WajahatKhan {
 - Integrated Anthropic & OpenAI APIs for automated professional CV content generation
 - Implemented speech-to-text input, real-time PDF preview, and template selection system
 
----
-
 ## 🎓 Education
 
 🏫 **BSc Software Engineering** · Hazara University Mansehra *(2022 – 2026)*
 > Recognized by HEC for academic excellence
 
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7B2FF7,100:F107A3&height=3&width=100%" width="100%"/>
 
 ## 📫 Contact Me
 
@@ -196,17 +196,15 @@ class WajahatKhan {
 | Platform | Link |
 |---------|------|
 | 📧 Email | [zamadkhan987654@gmail.com](mailto:zamadkhan987654@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/wajahatkhan](https://linkedin.com) |
+| 💼 LinkedIn | [linkedin.com/in/wajahat-khan](https://www.linkedin.com/in/wajahat-khan-659a8b374) |
 | 🐙 GitHub | [github.com/WAJAHATKHAN00](https://github.com/WAJAHATKHAN00) |
 | 📍 Location | Mansehra, KPK, Pakistan |
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,35:7B2FF7,70:C21FF0,100:F107A3&height=120&section=footer" width="100%"/>
 
 *"Building things is the best way to learn — so I keep building."*
 
