@@ -1,227 +1,24 @@
-<div align="center">
+# 💫 About Me:
+Hi, I'm Wajahat <br><br>Software Engineer and Flutter Developer from Pakistan. I just wrapped up my BS in Software Engineering at Hazara University (2022–2026), and most of what I build ends up being real-time and data-heavy — live maps, live status updates, that kind of thing — instead of static screens.<br><br>My final year project was a disaster early-warning app for cloud bursts: pulls live weather data per GPS coordinate, classifies risk in real time, and lets people report hazards from their phone with photo evidence, all synced through Supabase. I also built its admin panel in Flutter Web, so approvals and report status update on every connected phone instantly, no refresh needed.<br><br>During my internship, I worked on an AI-powered CV builder — you talk or type your details, it runs that through the Anthropic and OpenAI APIs, and spits out a formatted CV in under 5 minutes.<br><br>Currently working on: Research on moving document editing away from manual work in Microsoft Word into an AI-driven workflow — turning it into a full AI research project<br>Currently learning: Building advanced bots and AI agents for websites and applications<br>Looking to collaborate on: The Pakistan Meteorological Department or any advanced department with access to real weather data, to feed into my Intelligent Cloud Burst Predictor disaster app<br>Ask me about:  Flutter & Dart, Supabase (RLS, auth, realtime), Google Maps integration, or building AI-assisted tools<br>Reach me at: wajahat.softwareengineer@gmail.com<br>Fun fact : I research how to make Word obsolete, then open Word to write the research notes.
 
-<!-- Animated header banner — black → indigo → violet → neon magenta -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1A0933,50:3A0CA3,75:7209B7,100:F72585&height=220&section=header&text=Wajahat%20Khan&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20BSc%20Software%20Engineering%20Graduate&descAlignY=58&descSize=17&v=2" width="100%"/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Building+apps+that+actually+ship;Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;Real-time+systems+%7C+REST+APIs+%7C+Maps;AI-powered+mobile+experiences;Software+Engineering+Graduate+%40+Hazara+University" alt="Typing SVG" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wajahat-khan-659a8b374) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wajahat.softwareengineer@gmail.com) 
 
-<br/>
-
-<!-- Profile views & social badges -->
-<a href="https://github.com/WAJAHATKHAN00"><img src="https://komarev.com/ghpvc/?username=WAJAHATKHAN00&label=Profile+Views&color=F72585&style=for-the-badge" alt="Profile views"/></a>
-&nbsp;
-<a href="mailto:wajahatkhan998877@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/wajahat-khan-659a8b374"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/WAJAHATKHAN00"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1A0933,50:3A0CA3,75:7209B7,100:F72585&height=4&width=100%&v=2" width="100%"/>
-
-</div>
-
-## 👨‍💻 About Me
-
-```dart
-class WajahatKhan {
-  final String name     = "Wajahat Khan";
-  final String role     = "Flutter Developer & Software Engineering Graduate";
-  final String uni      = "Hazara University Mansehra (Graduated 2026)";
-  final String location = "Mansehra, KPK, Pakistan 🇵🇰";
-  final String email    = "wajahatkhan998877@gmail.com";
-
-  final List<String> currentWork = [
-    "🎓 BSc Software Engineering Graduate — Hazara University (2026)",
-    "📱 Building cross-platform apps with Flutter & Supabase",
-    "🤖 Integrating Anthropic & OpenAI APIs into mobile apps",
-  ];
-
-  final List<String> strengths = [
-    "Real-time systems (WebSockets, Supabase Realtime)",
-    "REST API integration & GPS/Maps features",
-    "AI-powered mobile applications",
-    "Full-stack: Flutter + Supabase + PostgreSQL",
-  ];
-}
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1A0933,50:3A0CA3,75:7209B7,100:F72585&height=3&width=100%&v=2" width="100%"/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌩️ Intelligent Cloud Burst Predictor *(Final Year Project)*
-> Real-time disaster early-warning Android app — the project I'm most proud of.
-
-</div>
-
-| Feature | Detail |
-|--------|---------|
-| 🧠 Algorithm | 6-parameter weighted heuristic — classifies risk as Low / Moderate / High / Critical |
-| 🌍 Live Map | Google Maps Flutter with dynamic hazard overlays via Supabase Realtime WebSocket |
-| ⚡ API Speed | OpenWeatherMap + device GPS — avg response under **400ms** on 4G |
-| 📸 Reporting | Community incident reports with photo + GPS, enforced by Supabase Row Level Security |
-| ✅ Testing | **All 22 test cases passed** — Unit, Integration, Performance & Security |
-
-**Tech:** `Flutter` `Dart` `Supabase` `PostgreSQL` `OpenWeatherMap API` `Google Maps Flutter`
-
-[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/WAJAHATKHAN00/Cloud-Burst-Application)
-
----
-
-<div align="center">
-
-### 🖥️ Cloud Burst Admin Panel *(Web Dashboard)*
-> Flutter Web dashboard for real-time disaster report management.
-
-</div>
-
-| Feature | Detail |
-|--------|---------|
-| 🔐 Auth | Supabase Auth (JWT) with double-verification guard — session token + role check |
-| ⚡ Real-time | Report approvals instantly trigger live map pin updates on all connected mobile clients |
-| 📊 Performance | Renders **150+ records** in sub-second load times |
-| 🔔 Notifications | Android device preview simulation + area-targeted push alerts |
-
-**Tech:** `Flutter Web` `Dart` `Supabase` `PostgreSQL` `Google Maps Flutter` `go_router`
-
-[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/WAJAHATKHAN00/Cloud-Burst-Adminpanel)
-
----
-
-<div align="center">
-
-### 📄 Professional CV Generator *(Internship @ NovaXccelerate)*
-> AI-powered voice CV builder — speak your experience, get a polished resume in under 5 minutes.
-
-</div>
-
-| Feature | Detail |
-|--------|---------|
-| 🎙️ Voice Input | Speech-to-text across all CV sections — hands-free data entry |
-| 🤖 AI Content | Anthropic & OpenAI API generate professionally written CV content automatically |
-| 🎨 Templates | Multiple design layouts with real-time PDF preview |
-| 📤 Export | One-tap PDF export — saved to device storage and shareable instantly |
-
-**Tech:** `Flutter` `Dart` `Anthropic API` `OpenAI API` `pdf (dart)` `Firebase` `image_picker`
-
-[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/WAJAHATKHAN00/Professional-CV-Generator)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1A0933,50:3A0CA3,75:7209B7,100:F72585&height=3&width=100%&v=2" width="100%"/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Mobile & Cross-platform**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**Backend & Database**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI & APIs**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Maps & Location**
-
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1A0933,50:3A0CA3,75:7209B7,100:F72585&height=3&width=100%&v=2" width="100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WAJAHATKHAN00&show_icons=true&hide_border=true&count_private=true&title_color=4CC9F0&icon_color=F72585&text_color=C9D1D9&bg_color=0D1117" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAJAHATKHAN00&layout=compact&hide_border=true&title_color=4CC9F0&text_color=C9D1D9&bg_color=0D1117" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WAJAHATKHAN00&hide_border=true&background=0D1117&stroke=4CC9F0&ring=F72585&fire=F72585&currStreakLabel=4CC9F0&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1A0933,50:3A0CA3,75:7209B7,100:F72585&height=3&width=100%&v=2" width="100%"/>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=WAJAHATKHAN00&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=WAJAHATKHAN00&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=WAJAHATKHAN00&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=WAJAHATKHAN00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=WAJAHATKHAN00&theme=dracula&no-frame=true&row=1&column=6&v=2" width="100%"/>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1A0933,50:3A0CA3,75:7209B7,100:F72585&height=3&width=100%&v=2" width="100%"/>
+---
+[![](https://komarev.com/ghpvc/?username=WAJAHATKHAN00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WAJAHATKHAN00/WAJAHATKHAN00/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WAJAHATKHAN00/WAJAHATKHAN00/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WAJAHATKHAN00/WAJAHATKHAN00/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1A0933,50:3A0CA3,75:7209B7,100:F72585&height=3&width=100%&v=2" width="100%"/>
-
-## 💼 Work Experience
-
-**Flutter & AI Application Developer** · [NovaXccelerate](https://novaxccelerate.com/) · *May 2025 – Aug 2025*
-- Built the AI-powered CV Generator app (voice → AI → PDF) used by real users
-- Integrated Anthropic & OpenAI APIs for automated professional CV content generation
-- Implemented speech-to-text input, real-time PDF preview, and template selection system
-
-## 🎓 Education
-
-🎓 **BSc Software Engineering — Graduate** · Hazara University Mansehra *(2022 – 2026)*
-> Recognized by HEC for academic excellence
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1A0933,50:3A0CA3,75:7209B7,100:F72585&height=3&width=100%&v=2" width="100%"/>
-
-## 📫 Contact Me
-
-<div align="center">
-
-| Platform | Link |
-|---------|------|
-| 📧 Email | [wajahatkhan998877@gmail.com](mailto:wajahatkhan998877@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/wajahat-khan](https://www.linkedin.com/in/wajahat-khan-659a8b374) |
-| 🐙 GitHub | [github.com/WAJAHATKHAN00](https://github.com/WAJAHATKHAN00) |
-| 📍 Location | Mansehra, KPK, Pakistan |
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1A0933,50:3A0CA3,75:7209B7,100:F72585&height=120&section=footer&v=2" width="100%"/>
-
-*"Building things is the best way to learn — so I keep building."*
-
-⭐ **Star my repos if you find them useful!** ⭐
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
